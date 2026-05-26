@@ -27,7 +27,9 @@ Email: bhuvananb33111@gmail.com
 Gitub: https://github.com/bhuvana-nb
 
 
-/home/ubuntu/cron_automation_project
+## 📁 Project Structure
+
+```bash
 ├── README.md
 ├── backups
 │   ├── backup_20260522_070522.tar.gz
@@ -58,3 +60,4 @@ Gitub: https://github.com/bhuvana-nb
     ├── health_check.sh
     ├── log_rotate.sh
     └── monitor.sh
+```
